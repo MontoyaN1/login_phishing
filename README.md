@@ -81,7 +81,7 @@ EMAIL_PASS=clave_generada
 
 Cambia el USER por tu correo electrónico con el que te logeaste anteriormente y de PASS la que te genero. Por último necesitas un destinatario para enviar el mensaje que modificas aquí:
 
-![alt text](image.png)
+![alt text](./img_readme/image.png)
 
 Ten en cuenta que puede que el primer mensaje se pueda marcar como spam o no deseado.
 
@@ -90,22 +90,22 @@ Ten en cuenta que puede que el primer mensaje se pueda marcar como spam o no des
 
 Una vez que se ejecuta el proyecto veraz un login como este:
 
-![alt text](image-1.png)
+![alt text](./img_readme/image-1.png)
 
 Que clona el login de un negocio conocido como Peluches Yakky. Una vez que el usuario se intenta logerar verá un mensaje que le confirma el inicio de sesión y es ahí donde se guardan esas credenciales en el archivo `archivo.txt`
 
-![alt text](image-2.png)
+![alt text](./img_readme/image-2.png)
 
 
  Y ahora al correo del destinatario llegará un mensaje:
 
- ![alt text](image-3.png)
+ ![alt text](./img_readme/image-3.png)
 
  Que contendrá el archivo con todas las credenciales de usuarios que se logearon:
 
- ![alt text](image-4.png)
+ ![alt text](./img_readme/image-4.png)
 
- 
+
 
 
 
